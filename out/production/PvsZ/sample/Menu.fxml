@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" styleClass="menu" stylesheets="@Menu.css" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.menuController">
+   <children>
+      <Button fx:id="savegame" layoutX="155.0" layoutY="263.0" mnemonicParsing="false" prefHeight="28.0" prefWidth="131.0" styleClass="toggle-button" stylesheets="@setbuttoncolor.css" text="Save Game">
+         <font>
+            <Font name="System Italic" size="14.0" />
+         </font></Button>
+      <Button fx:id="restartlevel" layoutX="314.0" layoutY="263.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="123.0" styleClass="toggle-button" stylesheets="@setbuttoncolor.css" text="Restart Level">
+         <font>
+            <Font size="14.0" />
+         </font></Button>
+      <Button fx:id="mainmenu" layoutX="239.0" layoutY="297.0" mnemonicParsing="false" prefHeight="18.0" prefWidth="123.0" scaleY="0.9" styleClass="toggle-button" stylesheets="@setbuttoncolor.css" text="Main Menu">
+         <font>
+            <Font size="14.0" />
+         </font></Button>
+   </children>
+</AnchorPane>

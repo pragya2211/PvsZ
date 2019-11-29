@@ -1,0 +1,5 @@
+.menu
+{
+    -fx-background-image: url("menu.jpeg");
+    -fx-background-size: 100% 100%;
+}

@@ -1,0 +1,4 @@
+.mainpage{
+    -fx-background-image: url("MainScreen.png");
+    -fx-background-size: 100% 100%;
+}

@@ -1,0 +1,58 @@
+.background
+{
+    -fx-background-image: url("background1.jpeg");
+    -fx-background-size: 100% 100%;
+}
+.page
+{
+    -fx-background-image: url("myvid.gif");
+    -fx-background-size: 100% 100%;
+}
+.zombiecoming
+{
+    -fx-background-image: url("zombiecoming.jpeg");
+    -fx-background-size: 100% 100%;
+}
+.plantmenu
+{
+    -fx-background-image: url("plantmenu.jpeg");
+    -fx-background-size: 100% 100%;
+}
+
+.lawnmover
+{
+
+    -fx-background-image: url("lawnmover123.png");
+    -fx-background-size: 100% 100%;
+
+}
+.zombie
+{
+    -fx-background-image: url("zombie.gif");
+    -fx-background-size: 100% 100%;
+}
+
+.peashooter
+{
+    -fx-background-image: url("peashooter.gif");
+    -fx-background-size: 100% 100%;
+}
+.pea
+{
+    -fx-background-image: url("Pea.png");
+    -fx-background-size: 100% 100%;
+}
+.sun
+{
+    -fx-background-image: url("sun.gif");
+    -fx-background-size: 100% 100%;
+}
+.wood
+{
+    -fx-background-image: url("wood.png");
+    -fx-background-size: 100% 100%;
+}
+.color-picker
+{
+    -fx-background-color: dark brown;
+}

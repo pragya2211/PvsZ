@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" styleClass="bodybg" stylesheets="@Level1.css" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <Button fx:id="btn2" layoutX="7.0" layoutY="333.0" mnemonicParsing="false" prefHeight="60.0" prefWidth="64.0" styleClass="backbutton" stylesheets="@backbutton.css" />
+      <Button fx:id="btn1" layoutX="254.0" layoutY="194.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="64.0" styleClass="toggle-button" stylesheets="@buttoncolor.css" text="Play" textFill="#e8eee9">
+         <font>
+            <Font name="Apple Braille Outline 6 Dot" size="13.0" />
+         </font></Button>
+   </children>
+</AnchorPane>
